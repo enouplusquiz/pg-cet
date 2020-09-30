@@ -1,0 +1,39 @@
+{
+  "qtitle": "PG CET Maths Question Paper",
+  "qdesc": "2019 Maths Question paper without answer",
+  "pname": "Raghavendra K J",
+  "pdesc": "founder of RYTPLUS",
+  "purl": "https://enouplus.xyz",
+  "QA": [
+    {
+      "1": "Modi",
+      "2": "Godi",
+      "3": "",
+      "4": "",
+      "q": "Who is prime minister",
+      "a": 1,
+      "e": "",
+      "u": 0
+    },
+    {
+      "1": "Modi",
+      "2": "Godi",
+      "3": "Raghu",
+      "4": "Rachana",
+      "q": "Who is next prime minister",
+      "a": 0,
+      "e": "",
+      "u": 0
+    },
+    {
+      "1": "Modi",
+      "2": "Godi",
+      "3": "Raghu",
+      "4": "Rachana",
+      "q": "Who is not prime minister",
+      "a": 2,
+      "e": "Godi is a plant not a prime minister",
+      "u": 0
+    }
+  ]
+}
